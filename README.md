@@ -2,7 +2,7 @@
 **Author**: Wyatt Pefley
 **Version**: 1.0.0 
 
-Build Status:
+Build Status: [![Build Status](https://travis-ci.com/peffles/07-http-server-1.svg?branch=master)](https://travis-ci.com/peffles/07-http-server-1)
 
 ***Tests passing locally but on travis I get the following error:***
 ```
