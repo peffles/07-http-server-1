@@ -10,7 +10,7 @@ const server = module.exports = {};
 const app = http.createServer((req, res) => {
   bodyParser(req)
     .then((parsedRequest) => {
-      logger.log(logger.INFO, `Hmm parsedRequest url pathname = ${parsedRequest.method}`);
+      logger.log(logger.INFO, `parsedRequest url pathname = ${parsedRequest.method}`);
       if (parsedRequest.method === 'GET' && parsedRequest.url.pathname === '/') {
         res.writeHead(200, { 'Content-Type': 'text/html' });
         res.write(`

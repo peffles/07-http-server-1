@@ -1,7 +1,13 @@
 # Lab 07 - Vanilla HTTP Server
 **Author**: Wyatt Pefley
-**Version**: 1.1.0 
-Build Status: 
+**Version**: 1.0.0 
+
+Build Status:
+
+***Tests passing locally but on travis I get the following error:***
+```
+connect ECONNREFUSED 127.0.0.1:3000
+```
 ___
 ***ERROR IN TEST SUITE I CANNOT FIX for the POST ROUTE!***
 ```
