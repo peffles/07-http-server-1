@@ -44,10 +44,10 @@ const app = http.createServer((req, res) => {
         <!DOCTYPE html>
         <html>
           <head>
-            <title>Cowsay</title>
+            <title> Cowsay </title>
           </head>
           <body>
-            <h1>Cowsay</h1>
+            <h1> Cowsay </h1>
             <pre>
               ${cowsayText}
             </pre>
