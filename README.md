@@ -20,9 +20,9 @@ ___
 This program makes HTTP requests to a server in order to make a cow talk!
 If done correctly, the final result should look something like this:
 ```
-  _______________
-< Wyatt is cool >
-  ---------------
+  ____________________
+< Wyatt is cool beans >
+  --------------------
          \   ^__^ 
           \  (oo)\_______
              (o)\        )\/\
